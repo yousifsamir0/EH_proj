@@ -1,1 +1,3 @@
-# EH_proj
+Requirement module:
+* psutil
+  - pip3 install psutil
